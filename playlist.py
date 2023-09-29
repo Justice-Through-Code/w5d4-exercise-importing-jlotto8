@@ -13,7 +13,7 @@ my_playlist = []
 
 # 2.0 TODO: Check what is in your playlist using the display_playlist() function
 # NOTE: Look at the display_playlist() function in playlist_helpers.py to figure out how to use it
-
+my my_playlist
 
 # 3.0 TODO: Add a song to my_playlist using the add_song() function
 # The song that you add should be a dictionary, with the following key-value pairs
