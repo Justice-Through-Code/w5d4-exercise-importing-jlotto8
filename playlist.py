@@ -33,7 +33,7 @@ add_song(my_playlist,song= {"artist": "Bob Dylan", "title": "Idiot wind"})
 display_playlist(my_playlist)
 
 # 5.1 TODO: Add 2 more songs to my_playlist (using the add_song function)
-add_song(my_playlist,song = {'artist': 'SZA', 'title': 'Kill Bill'})
+add_song(my_playlist, song = {'artist': 'SZA', 'title': 'Kill Bill'})
 add_song(my_playlist, song= {'artist': 'Nas', 'title': 'One Love'})
 
 # 5.2 TODO: Then display it again using the display_playlist() function
@@ -62,3 +62,5 @@ print(average_plays)
 # See playlist_helpers.py for details on how to define this function
 # In this file, play a few tracks, and run display_playlist() again to make sure it works
 play_track(my_playlist,1)
+play_track(my_playlist,2)
+play_track(my_playlist,3)
